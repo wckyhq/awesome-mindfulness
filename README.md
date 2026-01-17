@@ -22,6 +22,18 @@
 - [📱](#icons) [Strong](https://www.strong.app/) - A simple workout tracker that is very popular.
 - [📀](#icons) [K Boges](https://www.youtube.com/@Kboges) - A no-bullshit approach to working out.
 
+## Habit tracking
+
+- [⭐️](#icons) [📀](#icons) [Reysu's Journalling technique](https://www.youtube.com/watch?v=OmyfB513E1s&t=314s) - A multi-use journalling technique with a focus on positive habits and humility.
+- [🤖](#icons) [Loop Habit Tracker](https://play.google.com/store/apps/details?id=org.isoron.uhabits&pli=1) - A habit tracker with a very simple and classy design.
+- [📱](#icons) [Atoms by James Clear](https://atoms.jamesclear.com/) - From the author of Atomic Habits.
+- [🍎](#icons) [Onrise](https://onrise.me/) - Very well-designed habit tracker that is 100% free.
+
+## Journalling
+
+- [⭐️](#icons) [🍎](#icons) [Quick Journal](https://apps.apple.com/us/app/quick-journal-just-write/id6554003659) - Very simple and minimal journalling app for iPhone.
+- [🍎](#icons) [Apple Journal](https://apps.apple.com/us/app/journal/id6447391597) - Journalling app by Apple.
+
 ## Meditation
 
 - [⭐️](#icons) [📱](#icons) [Medito](https://meditofoundation.org/medito-app) - A 100% free (and actually useful) meditation app owned by the Medito Foundation, a nonprofit.

@@ -1,6 +1,6 @@
 <p align="center"><img src="misc/images/BANNER.png"> </img></p>
 
-<p align="center">A list of mindfulness resources.</p>
+<p align="center">A list of mindfulness resources that will help to sleep, relax and feel like yourself again.</p>
 
 > [!IMPORTANT]
 > The goal of this list is to provide useful resources to those who need them. However, mindfulness is not an alternative to therapy but can be used in conjunction with therapy or other acts of self-care.
@@ -10,9 +10,17 @@
 
 ## Contents
 
+- [Exercise tracking](#exercise-tracking)
 - [Meditation](#meditation)
 - [Relaxation and sleep](#relaxation-and-sleep)
-- [Icons](#icons)
+- [Icon meanings](#icons)
+
+## Exercise tracking
+
+- [⭐️](#icons) [🍎](#icons) [Dropset](https://www.getdropset.app/) - A beautiful and feature-dense workout tracker.
+- [📱](#icons) [Hevy](https://www.hevyapp.com/) - Log workouts and measure progress.
+- [📱](#icons) [Strong](https://www.strong.app/) - A simple workout tracker that is very popular.
+- [📀](#icons) [K Boges](https://www.youtube.com/@Kboges) - A no-bullshit approach to working out.
 
 ## Meditation
 
@@ -36,4 +44,5 @@
 | 🍎   | IOS-only app |
 | 📱   | Both IOS or Android app |
 | 📰   | A newsletter or article |
+| 📀   | Video or image |
 

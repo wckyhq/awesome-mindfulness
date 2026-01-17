@@ -16,7 +16,7 @@
 
 ## Meditation
 
-- [⭐️](#icons)[📱](#icons) [Medito](https://meditofoundation.org/medito-app) - A 100% free (and actually useful) meditation app owned by the Medito Foundation, a nonprofit.
+- [⭐️](#icons) [📱](#icons) [Medito](https://meditofoundation.org/medito-app) - A 100% free (and actually useful) meditation app owned by the Medito Foundation, a nonprofit.
 - [📱](#icons) [Headspace](https://www.headspace.com/) - Originally a meditation app but has expanded to sleep resources and mental health.
 - [📱](#icons) [InSight Timer](https://insighttimer.com/) - *The world's largest library of free guided meditations with 300,000 tracks from psychologists, spiritual leaders and mindfulness teachers.* - InSight Timer
 - [📱](#icons) [Calm](https://www.calm.com/) - *Mental health app designed to help you manage stress, sleep better, and live a happier, healthier life.* - Calm

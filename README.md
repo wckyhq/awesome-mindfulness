@@ -11,6 +11,8 @@
 ## Contents
 
 - [Exercise tracking](#exercise-tracking)
+- [Habit tracking](#habit-tracking)
+- [Journalling](#journalling)
 - [Meditation](#meditation)
 - [Relaxation and sleep](#relaxation-and-sleep)
 - [Icon meanings](#icons)
